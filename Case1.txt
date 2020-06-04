@@ -1,0 +1,10 @@
+package com.company.Composition;
+
+public class Case {
+    
+    public String getModel() {
+        return model;
+ //Hello
+
+    }
+}
